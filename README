@@ -8,8 +8,8 @@
 6. ```cd custiomer```
 7. ```gem install bundler```
 8. ```bundle install```
-11. ```cucumber features```
-12. Vist the CukeHub App [CustomerIO](https://cukehub.com/apps/87) to view results.
+9. ```cucumber features```
+10. Vist the CukeHub App [CustomerIO](https://cukehub.com/apps/87) to view results.
 
 ### Install Ruby
 * How to Install [Ruby](http://davehaeffner.com/selenium-guidebook/install/ruby/windows/) on Windows 
